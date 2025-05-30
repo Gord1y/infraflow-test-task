@@ -19,7 +19,7 @@ This repository contains a monorepo for the Infraflow test task, featuring:
 ├── apps/api/.env.example         # Backend environment variables example
 ├── apps/web/.env.example         # Frontend environment variables example
 ├── package.json                  # Monorepo package.json
-└── image.jpeg       # Site screenshot
+└── image.png       # Site screenshot
 ```
 
 ## Features
@@ -93,7 +93,7 @@ This repository contains a monorepo for the Infraflow test task, featuring:
 
 ## Screenshot
 
-![Site Screenshot](./image.jpeg)
+![Site Screenshot](./image.png)
 
 ## License
 
