@@ -1,0 +1,11 @@
+{
+	"private": true,
+	"workspaces": [
+		"apps/*"
+	],
+	"dependencies": {
+		"@trpc/client": "^11.1.4",
+		"@trpc/react-query": "^11.1.4",
+		"@trpc/server": "^11.1.4"
+	}
+}
